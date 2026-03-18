@@ -1,0 +1,10 @@
+التعليمات باللغت العربي:
+يمكنك تشغيل Bitchat على نظام Linux باستخدام الأمر التالي:
+chmod +x bitchat-rust مسار ملف
+./bitchat-rust
+
+Instructions in English:
+
+You can run Bitchat on Linux using the commond:
+chmod +x bitchat-rust file path
+./bitcht-rust
